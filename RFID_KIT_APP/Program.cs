@@ -7,7 +7,7 @@ namespace RFID_KIT_APP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
-            Console.WriteLine("github ok");
+            Console.WriteLine("github okey");
         }
     }
 }

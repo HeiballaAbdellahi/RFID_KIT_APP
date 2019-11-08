@@ -15,7 +15,7 @@ namespace RFID_KIT_APP
             string userName = Console.ReadLine();
 
             // Print the value of the variable (userName), which will display the input value
-            Console.WriteLine("Username : " + userName);
+            Console.WriteLine("Username :  " + userName);
 
         }
     }
